@@ -1,3 +1,8 @@
+# HIDIO Information:
+This is the Social Robot environment code used in [HIDIO](https://github.com/jesbu1/hidio). 
+Most of the tasks have been modified to use joint as opposed to PID control, to make them more difficult.
+Below follows the standard Social Robot README.
+
 # Social Robot
 
 A python environment for developing interactive learning agent with language communication ability.
